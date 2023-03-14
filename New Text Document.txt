@@ -1,0 +1,44 @@
+ <aside>
+        <li type="bold">ABC school gives you</li>
+        <li>Ready-back-to-school ?</li>
+        <li>medium-shot-smiley-students</li>
+        <li>confident-teacher-explaining-lesson-to-pupils</li>
+        <li>sideways-school-boy-copy-space</li>
+    </aside> aside{
+        width: 40%;
+        padding-right: 0.5rem;
+        margin-right: 0.5rem;
+        float: left;
+        box-shadow: inset 5px 0 5px -5px orange;
+        font-style: italic;
+        color: white;
+        text-align: left;
+    }
+    aside > p{
+        margin: 0.5rem;
+    }
+    li{
+        text-decoration: none;
+
+    }
+
+//////
+<style>
+    aside{
+        width: 40%;
+        padding-right: 0.5rem;
+        margin-right: 0.5rem;
+        float: left;
+        box-shadow: inset 5px 0 5px -5px orange;
+        font-style: italic;
+        color: white;
+        text-align: left;
+    }
+    aside > p{
+        margin: 0.5rem;
+    }
+    li{
+        text-decoration: none;
+
+    }
+</style>
